@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Boris](https://up.htmlacademy.ru/nodejs-2-individual/1/user/2159011).
-* Наставник: `Неизвестно`.
+* Наставник: Gleb Kletskov.
 
 ---
 
